@@ -22,11 +22,11 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>NEW DOCKER IMAGE </code> 
+          Edit <code>NEW BEGINS </code> 
         </p>
       </div>
       <p className="read-the-docs">
-        Finally DEPLOYED by SHOBAN devops intern --------------------------
+        -----------------------Finally DEPLOYED by SHOBAN devops ENGINEER--------------------------
       </p>
     </>
   )
